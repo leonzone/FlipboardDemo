@@ -4,7 +4,7 @@ HenCoder「仿写酷界面」活动——征稿 之 Flipboard
 
 **效果**
 
-![效果](https://ws2.sinaimg.cn/large/006tKfTcly1fkeccnawrqg30dm0c0akj.gif)
+![效果](https://github.com/leonzone/FlipboardDemo/raw/master/art/art.gif)
 
 **核心代码**
 
